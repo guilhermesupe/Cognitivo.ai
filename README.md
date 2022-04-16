@@ -21,19 +21,19 @@ Acurácia média dos 10 folds (cross-validation 10 fold): 85.62%
 Matriz de confusão:
 
 
-| 3368 | 69   | 346  | 18   |
+| 3999 |  0   |  96  |  23  |
 |------|------|------|------|
-| 16   | 3392 | 1259 | 485  |
-| 333  | 8    | 2326 | 29   |
-| 1    | 616  | 200  | 3550 |
+|  5   | 3550 |  385 |  314 |
+|  74  | 184  | 3566 |  291 |
+|   1  | 346  |  59  | 3443 |
    
    
    
- Precision: 0.817682432996383
+ Precision: 0.8917540807377721
  
- Recall: 0.7930950048971597
+ Recall: 0.8911606268364348
  
- F1 score: 0.8052010637169696
+ F1 score: 0.8914572550197503
  
  
  Como as classes foram balanceadas com o uso do algoritmo SMOTE, a acurácia é representativa. Como o F1-score está próximo da acurácia, a modelagem se mostra consistente.
