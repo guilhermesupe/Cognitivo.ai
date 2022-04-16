@@ -19,7 +19,7 @@ Depois que o modelo foi concluído, é preciso tirar todas as métricas pertinen
 Acurácia média dos 10 folds (cross-validation 10 fold): 85.62% 
 
 Matriz de confusão:
-Confusion Matrix :
+
 
 | 3368 | 69   | 346  | 18   |
 |------|------|------|------|
