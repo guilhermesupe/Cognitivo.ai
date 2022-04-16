@@ -21,9 +21,14 @@ Acurácia média dos 10 folds (cross-validation 10 fold): 85.62%
 Matriz de confusão:
 Confusion Matrix :
 3688   69  346   18
+
   16 3392 1259  485
+  
  333    8 2326   29
+ 
    1  616  200 3550
+   
+   
    
  Precision: 0.817682432996383
  Recall: 0.7930950048971597
