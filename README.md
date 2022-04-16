@@ -30,7 +30,10 @@ Matriz de confusão:
    
    
  Precision: 0.817682432996383
+ 
  Recall: 0.7930950048971597
+ 
  F1 score: 0.8052010637169696
+ 
  
  Como as classes foram balanceadas com o uso do algoritmo SMOTE, a acurácia é representativa. Como o F1-score está próximo da acurácia, a modelagem se mostra consistente.
